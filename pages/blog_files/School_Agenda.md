@@ -3,7 +3,7 @@
 * 07.00 - 07.30 Devotion
 * 07.35 - 09.00 Civics 
 * 09.00 - 09.30 Break
-* 09.30 - 10.55 Seni Budaya (Art)
+* 09.30 - 10.55 Seni Budaya 
 * 11.00 - 11.40 Science
 * 11.40 - 12.10 Break
 * 12.10 - 12.50 Science
