@@ -17,7 +17,7 @@
 * 11.00 - 11.40 Sosial Studies
 * 11.40 - 12.10 Break
 * 12.10 - 13.35 Science
-* 13.40 - 15.05 Projek Profil 
+* 13.40 - 15.05 Projek Profil
 ## Wednesday
 ## Thursday
 ## Friday 😎
