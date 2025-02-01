@@ -1,6 +1,10 @@
 import streamlit as st
-st.title("This is a mini blog") 
-with open('./pages/blog_files/School_Agenda.md','r') as f:
-  content = f.read()
-f.close()
-st.markdown(content)
+import os
+
+files = os.listdir('./pages/blog_files') 
+
+for each_file in files:
+  with open('./pages/blog_files/' + each_file,'r') as f:
+    content = f.read()
+  f.close()
+  st.markdown(content)
