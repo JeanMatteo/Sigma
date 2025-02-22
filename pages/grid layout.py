@@ -10,9 +10,9 @@ for i in range(ncolumn):
     if i%ncolumn == 1:
         col = columns[1]
     if i%ncolumn == 2:
-      col = columns[2]
+        col = columns[2]
     if i%ncolumn == 3:
-      col = columns[3]
+        col = columns[3]
 
     with col:
       with st.container(border=True):
