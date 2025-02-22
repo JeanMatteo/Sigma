@@ -2,7 +2,7 @@ import streamlit as st
 
 ncolumn = 4
 
-column = st.columns(ncolumn)
+columns = st.columns(ncolumn)
 
 for i in range(ncolumn):     
     if i%ncolumn == 0:
