@@ -1,1 +1,1 @@
-#Information about computer
+# Information about computer
